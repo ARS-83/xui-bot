@@ -12,4 +12,8 @@
 ### clone files to your server
 ```
 git clone https://github.com/ARS-83/xui-bot.git
+cd xui-bot
 ```
+### Now you have to edit config.ini and config.json files and replace adminId to your Telegram Id the values ​​as you like and configure your robot
+
+

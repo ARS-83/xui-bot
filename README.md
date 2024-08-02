@@ -1,6 +1,6 @@
-# XUI BOT
+ <h1>XUI BOT</h1>
 
-## A robot that helps the seller of xui services in person and users can receive their consumption and service
+ A robot that helps the seller of xui services in person and users can receive their consumption and service
 
 
 

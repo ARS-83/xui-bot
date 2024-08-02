@@ -10,7 +10,7 @@
 ## install in ubuntu
 
 ### clone files to your server
-```code
-git clone https://github.com/ARS-83/xui-bot/archive/refs/heads/main.zip && apt install unzip
+```
+git clone [https://github.com/ARS-83/xui-bot/archive/refs/heads/main.zip](https://github.com/ARS-83/xui-bot.git) && apt install unzip
 unzip main.zip
 ```

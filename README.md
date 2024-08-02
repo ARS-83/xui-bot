@@ -22,7 +22,7 @@ apt install python3 && apt install pip && pip install -r requirements.txt &&  no
 Done (:
 Your bot runned
 
-### See Bot Is Run
+### See if it is running or not
 ```
 ps aux | grep python3
 ```
@@ -33,7 +33,7 @@ for stop bot copy this numberId
 kill -9 NUMBERID
 ```
 
-## my social
+## My Social
 <p align='center'>
 <a href="https://t.me/AR_S_83">Ask Question</a>/<a href="https://t.me/AR_S_83">buy xui bot for sale</a>
  

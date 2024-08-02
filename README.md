@@ -11,6 +11,5 @@
 
 ### clone files to your server
 ```
-git clone [https://github.com/ARS-83/xui-bot/archive/refs/heads/main.zip](https://github.com/ARS-83/xui-bot.git) && apt install unzip
-unzip main.zip
+git clone https://github.com/ARS-83/xui-bot.git
 ```
